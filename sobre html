@@ -6,6 +6,9 @@
 </head>
 <body>
 <h1>Minha História</h1>
+<figure>
 <img src="alunos.jpg" alt="alunos">
+<figcaption>Aluno: Heitor Bruni</figcaption>
+</figure>
 </body>
 </html>
